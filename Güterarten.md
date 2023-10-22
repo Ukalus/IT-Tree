@@ -1,0 +1,3 @@
+- Konsumgüter
+- Verbrauchsgüter
+- 

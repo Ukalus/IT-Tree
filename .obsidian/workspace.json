@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "555fac6bcd6ef9e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f9a0dea2b935311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4db602363f0f37f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6cea20aaa9df96e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd1240ea37f4143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f5b9ab1442064e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49a6fd961b802e19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7866300f0a43d345",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0cdbd786785d46c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b45904c6462f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b554e98c8668827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e66b5ba9ae6433f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a40fa31999d0d840",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30af3651cb741972",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4db602363f0f37f",
+  "lastOpenFiles": [
+    "Übersicht.md",
+    "Betriebswirtschaftliche Prinzipien.md",
+    "Subnetting.md",
+    "Selbstkostenermittlung.md",
+    "Güterarten.md",
+    "Markt und Preisbildung.md",
+    "Wirtsschafts Test.md"
+  ]
+}

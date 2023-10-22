@@ -1,0 +1,6 @@
+
+
+## Prinziparten
+- Minimumsprinzip
+- Maximumsprinzip
+- Bedarfsdeckungsprinzip
