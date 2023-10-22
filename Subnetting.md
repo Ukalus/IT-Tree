@@ -1,89 +1,58 @@
 
+#### Einfaches Subnetting (Gleichgroße Subnetze)
 
-#### Nested Sub-netting 
+Aufgabe: 
+Teile folgendes Netz in 4 Gleichgroße Netze auf. Der Hostanteil soll
+so klein wie möglich sein. 
 
-Gegebenes Netz für die Firma:
+Gegebenes Netz: 196.178.40.0 / 23 
 
-- 192.167.128.0 / 21
+Netzbereiche:
 
-- 255.255.11111000.00000000
+Technik = 50 hosts
+Software = 50 hosts
+Marketing = 20 hosts 
+Kunden = 100 hosts 
 
-Abteilungen der Firma: 
+Lösungsweg:
 
-- Technik = 200 hosts
-- Software = 100 hosts
-- Marketing = 50 hosts
+Das größte Netz braucht 100 hosts also gehen wir davon aus.
+Wir brauchen 4 Subnetze mit jeweils 100 hosts. für 4 Subnetze
+brauchen wir 2² also 4 bits. für 100 Hosts brauchen wir 2⁷ also 7 bits.
 
+Wir erweitern also die Subnetzmaske auf /25 und haben dann noch
+genau 7 bits übrig für den Host anteil.
 
-Größtes Netz = 200 hosts
+Lösung:
 
-Adressen für Sub-netze: 
+1. Teilnetz
 
-- 192.167.128.0 /24
-- 192.167.128.128 /25
-- 192.167.128.192 /26
+Netzadresse = 196.178.40.0 / 25
+Erster Client = 196.178.40.1 / 25
+Letzter Client = 196.178.40.126 / 25
+Broadcast = 196.178.40.127 / 25
 
+2. Teilnetz
 
+Netzadresse = 196.178.40.128 / 25
+Erster Client = 196.178.40.129 / 25
+Letzer Client = 196.178.40.254 / 25
+Broadcast = 196.178.40.255 / 25
 
+3. Teilnetz
 
+Netzadresse = 196.178.41.0 / 25
+Erster Client = 196.178.41.1 / 25
+Letzer Client =  196.178.41.126 / 25
+Broadcast = 196.178.41.127 / 25 
 
+4. Teilnetz 
 
-#### Nested Sub-netting II
-
-Gegebenes Netz für die Firma:
-
-- 192.180.0.0 / 16
-
-Abteilungen der Firma: 
-
-- Technik = 250 hosts
-- Software = 100 hosts
-- Marketing = 100 hosts
-
-
-Größtes Netz = 250 hosts
-
-Adressen für Sub-netze: 
-
-- 192.180.0.0 /24
-- 192.180.1.0 /25
-- 192.180.1.128 /25
-
-
-
-#### Nested Sub-netting II
-
-Gegebenes Netz für die Firma:
-
-- 192.120.128.0 / 18
-
-Abteilungen der Firma: 
-
-- Technik = 250 hosts
-- Software = 100 hosts
-- Marketing = 50 hosts
+Netzadresse = 196.178.41.128 / 25
+Erster Client = 196.178.41.129 / 25 
+Letzer Client = 196.178.41.254 / 25 
+Letzer Client = 196.178.41.255 / 25
 
 
-Größtes Netz = 250 hosts
-
-Adressen für Sub-netze: 
-
-192.120.128.0 /24
-192.120.128.128 /25
-192.120.128.192 / 26
 
 
-192.168.10.0 / 24
-
-
-New York = 125 hosts
-San Jose B = 48 hosts
-Fargo = 23 hosts 
-San Jose A = 12 hosts
-Wan = 3 hosts
-
-192.168.10.0 /25
-192.168.10.128 /26
-192.168.10.192 /27
-192.168.10.224 /28
-192.168.10.252 /30
