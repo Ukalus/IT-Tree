@@ -33,5 +33,38 @@ In Binär
 	1111 1111.1111 1111.1111 1111.0000 0000
 
 
+Teilnetz 1:
+
+Netzadresse: 192.167.128.0 / 24
+
+Teilnetz 2: 
+
+Netzadresse: 192.167.129.0 / 24
+
+Teilnetz 3:
+
+Netzadresse: 192.167.129.128 /25 
+
+
+
+#### Extra Aufgabe:
+
+Gegebenes Netz für die Firma:
+
+- 192.167.0.0 / 16
+- 255.255.0.0
+
+Abteilungen der Firma: 
+
+- Technik = 200 hosts
+- Software = 200 hosts
+- Marketing = 50 hosts
+- Kunden = 50 hosts 
+- Andere = 50 hosts
+
+
+Lösungsweg:
+
+
 
 

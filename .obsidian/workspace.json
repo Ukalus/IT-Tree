@@ -11,9 +11,19 @@
             "id": "c4db602363f0f37f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Wirtschaft/Untitled Diagram.drawio(3).png"
+              }
+            }
+          },
+          {
+            "id": "f6d7258f95dbd648",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Subnetting.md",
+                "file": "Wirtschaft/Handelskalkulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +35,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLSM Subnetting.md",
+                "file": "Wirtschaft/Güterarten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69a02da917fe99bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaft/Betriebliche Kennzahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db8ff71e60993822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaft/Markt und Preisbildung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3ca23ade6237ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaft/Markt und Preisbildung.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VLSM Subnetting.md",
+                "file": "Wirtschaft/Handelskalkulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VLSM Subnetting.md",
+                "file": "Wirtschaft/Handelskalkulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VLSM Subnetting.md"
+                "file": "Wirtschaft/Handelskalkulation.md"
               }
             }
           }
@@ -159,15 +205,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a34d31d84eb55ecb",
+  "active": "f6d7258f95dbd648",
   "lastOpenFiles": [
-    "Subnetting.md",
-    "VLSM Subnetting.md",
+    "Wirtschaft/Eigen- oder Fremdfertigung.md",
+    "Wirtschaft/Betriebswirtschaftliche Prinzipien.md",
+    "Wirtschaft/Betriebliche Kennzahlen.md",
+    "Networking/VLSM Subnetting.md",
+    "Networking/Subnetting.md",
+    "1. Klausurthemen Wirtschaft 2. Jahr.md",
+    "Wirtschaft/Handelskalkulation.md",
+    "Wirtschaft/Markt und Preisbildung.md",
+    "Wirtschaft/Güterarten.md",
+    "EigenFremdherrstellung.py",
     "Übersicht.md",
-    "Betriebswirtschaftliche Prinzipien.md",
+    "Wirtschaft/Untitled Diagram.drawio(3).png",
+    "Networking.md",
+    "Networking",
+    "Wirtsschafts Test.md",
+    "Wirtschaft",
     "Selbstkostenermittlung.md",
-    "Güterarten.md",
-    "Markt und Preisbildung.md",
-    "Wirtsschafts Test.md"
+    "handelskalkulation.py",
+    "Aufgaben.md",
+    "Aufgaben Handelskalkulation .ods",
+    "lu94801fsoc.tmp",
+    "Untitled Diagram(4).drawio"
   ]
 }

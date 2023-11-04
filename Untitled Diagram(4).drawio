@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2023-11-02T10:21:57.696Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="fjt5tvjx5by6c8gS44DP" version="22.0.8" type="device">
+  <diagram name="Page-1" id="IkC7mxNSNb68AwwsDVkb">
+    <mxGraphModel dx="819" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NtvowNOw0uraXiBAf-4F-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-1" target="NtvowNOw0uraXiBAf-4F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-4" value="- Lieferrabatt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-3">
+          <mxGeometry x="-0.2714" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-1" value="Listeneinkaufspreis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-2" target="NtvowNOw0uraXiBAf-4F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-7" value="- Lieferskonto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-6">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-2" value="Zieleinkaufspreis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-5" target="NtvowNOw0uraXiBAf-4F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-10" value="&lt;div&gt;+ Bezugskosten&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-9">
+          <mxGeometry x="-0.1143" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-5" value="Bareinkaufspreis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-8" target="NtvowNOw0uraXiBAf-4F-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-13" value="Handlungskosten" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-12">
+          <mxGeometry x="-0.0714" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-8" value="Bezugspreis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-11" target="NtvowNOw0uraXiBAf-4F-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-11" value="Selbstkosten" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-14" target="NtvowNOw0uraXiBAf-4F-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-18" value="Gewinnzuschlag" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-17">
+          <mxGeometry x="-0.1565" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-14" value="Selbstkosten" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-16" target="NtvowNOw0uraXiBAf-4F-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-21" value="&lt;div align=&quot;justify&quot;&gt;+Kundenskonto&lt;br&gt;+ vertreterprovision&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-20">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint x="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-16" value="Barverkaufspreis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-19" target="NtvowNOw0uraXiBAf-4F-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-24" value="+ Kundenrabatt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-23">
+          <mxGeometry x="-0.1323" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-19" value="Zielverkaufspreis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NtvowNOw0uraXiBAf-4F-22" target="NtvowNOw0uraXiBAf-4F-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-27" value="+ Umsatzsteuer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NtvowNOw0uraXiBAf-4F-26">
+          <mxGeometry x="-0.1565" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-22" value="Listenverkaufspreis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtvowNOw0uraXiBAf-4F-25" value="Listenverkaufspreis inkl. MwSt." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
