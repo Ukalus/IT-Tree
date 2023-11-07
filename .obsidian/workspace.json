@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f9a0dea2b935311",
+        "id": "5fe8fc976e7eb457",
         "type": "tabs",
         "children": [
           {
-            "id": "c4db602363f0f37f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Wirtschaft/Untitled Diagram.drawio(3).png"
-              }
-            }
-          },
-          {
-            "id": "f6d7258f95dbd648",
+            "id": "3d8bed25931b0132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaft/Handelskalkulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a34d31d84eb55ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Güterarten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69a02da917fe99bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Betriebliche Kennzahlen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db8ff71e60993822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Markt und Preisbildung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3ca23ade6237ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaft/Markt und Preisbildung.md",
+                "file": "VEP-BIJ/1. Klausur Themen VEP-BIJ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaft/Handelskalkulation.md",
+                "file": "VEP-BIJ/1. Klausur Themen VEP-BIJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaft/Handelskalkulation.md",
+                "file": "VEP-BIJ/1. Klausur Themen VEP-BIJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaft/Handelskalkulation.md"
+                "file": "VEP-BIJ/1. Klausur Themen VEP-BIJ.md"
               }
             }
           }
@@ -205,20 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d7258f95dbd648",
+  "active": "3d8bed25931b0132",
   "lastOpenFiles": [
-    "Wirtschaft/Eigen- oder Fremdfertigung.md",
-    "Wirtschaft/Betriebswirtschaftliche Prinzipien.md",
+    "VEP-BIJ/DFA.py",
+    "Wirtschaft/Markt und Preisbildung.md",
     "Wirtschaft/Betriebliche Kennzahlen.md",
+    "Wirtschaft/Güterarten.md",
+    "VEP-BIJ/Cyber physische Systeme.md",
+    "VEP-BIJ/1. Klausur Themen VEP-BIJ.md",
+    "Wirtschaft/1. Klausurthemen Wirtschaft 2. Jahr.md",
+    "Wirtschaft/Untitled Diagram.drawio(3).png",
+    "VEP-BIJ/EVA-Prinzip.md",
+    "VEP-BIJ/Sensoren und Aktoren.md",
+    "VEP-BIJ/SPS.md",
+    "VEP-BIJ/Pasted image 20231107220318.png",
+    "VEP-BIJ/Funktionsplan (FUP).md",
+    "VEP-BIJ/Automaten.md",
     "Networking/VLSM Subnetting.md",
     "Networking/Subnetting.md",
-    "1. Klausurthemen Wirtschaft 2. Jahr.md",
+    "Pasted image 20231107221600.png",
+    "VEP-BIJ",
     "Wirtschaft/Handelskalkulation.md",
-    "Wirtschaft/Markt und Preisbildung.md",
-    "Wirtschaft/Güterarten.md",
-    "EigenFremdherrstellung.py",
+    "Wirtschaft/Eigen- oder Fremdfertigung.md",
+    "Wirtschaft/Betriebswirtschaftliche Prinzipien.md",
     "Übersicht.md",
-    "Wirtschaft/Untitled Diagram.drawio(3).png",
+    "EigenFremdherrstellung.py",
     "Networking.md",
     "Networking",
     "Wirtsschafts Test.md",

@@ -34,5 +34,5 @@ Produktivität =  0.25
 Wirtschaftlichkeit = Ertrag / Aufwand 
 #### Rentabilität 
 
-Rentabilität = (Gewinn * 100 / Kapitaleinsatz)
+Rentabilität = (Gewinn / Kapitaleinsatz) * 100
 

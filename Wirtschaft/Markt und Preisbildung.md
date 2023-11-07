@@ -18,11 +18,11 @@
 
 #### Verhältnis zwischen Angebot und Nachfrage
 
-| | 1 Nachfrage| Mittlere Nachfrage | Hohe Nachfrage|
+| | 1 Nachfrage| Wenige Nachfrage | Hohe Nachfrage|
 |-|-|-|-|
 |1 Angebot|Beidseitiges Monopol|Eingeschränktes Angebots Monopol|Angebots Monopol|
-|Mittleres Angebot|Eingeschränktes Nachfrage Monopol|Beidseitiges Oligopol|Angebots Oligopol|
-|Hohes Angebot|Nachfrage Monopol|Nachfrage Oligopol|Polypol|
+|Wenige Angebote|Eingeschränktes Nachfrage Monopol|Beidseitiges Oligopol|Angebots Oligopol|
+|Hohes Angebote|Nachfrage Monopol|Nachfrage Oligopol|Polypol|
 
 
 
